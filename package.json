@@ -1,0 +1,27 @@
+{
+  "name": "thtml",
+  "version": "0.0.1",
+  "description": "thtml",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hzjjg/thtml.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "hzjjg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hzjjg/thtml/issues"
+  },
+  "homepage": "https://github.com/hzjjg/thtml#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/cli": "^7.11.5",
+    "@babel/preset-env": "^7.11.5"
+  }
+}
